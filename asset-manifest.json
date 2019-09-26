@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/guitaramp/static/css/main.dd63e283.chunk.css",
+    "main.js": "/guitaramp/static/js/main.d4734994.chunk.js",
+    "main.js.map": "/guitaramp/static/js/main.d4734994.chunk.js.map",
+    "runtime~main.js": "/guitaramp/static/js/runtime~main.8fd6ea80.js",
+    "runtime~main.js.map": "/guitaramp/static/js/runtime~main.8fd6ea80.js.map",
+    "static/css/2.f0a787a4.chunk.css": "/guitaramp/static/css/2.f0a787a4.chunk.css",
+    "static/js/2.768aaf01.chunk.js": "/guitaramp/static/js/2.768aaf01.chunk.js",
+    "static/js/2.768aaf01.chunk.js.map": "/guitaramp/static/js/2.768aaf01.chunk.js.map",
+    "index.html": "/guitaramp/index.html",
+    "precache-manifest.e55a3ac35dda8f909d7f3c93ef070e14.js": "/guitaramp/precache-manifest.e55a3ac35dda8f909d7f3c93ef070e14.js",
+    "service-worker.js": "/guitaramp/service-worker.js",
+    "static/css/2.f0a787a4.chunk.css.map": "/guitaramp/static/css/2.f0a787a4.chunk.css.map",
+    "static/css/main.dd63e283.chunk.css.map": "/guitaramp/static/css/main.dd63e283.chunk.css.map",
+    "static/media/Allure_59_Tweed_P10N.wav": "/guitaramp/static/media/Allure_59_Tweed_P10N.62b177eb.wav",
+    "static/media/Allure_64_A30_G12.wav": "/guitaramp/static/media/Allure_64_A30_G12.9f93c5df.wav",
+    "static/media/Allure_64_USDeluxe_P12N.wav": "/guitaramp/static/media/Allure_64_USDeluxe_P12N.1f523840.wav",
+    "static/media/Allure_67_Brit_Greenback.wav": "/guitaramp/static/media/Allure_67_Brit_Greenback.49f49da7.wav",
+    "static/media/Marshall1960.wav": "/guitaramp/static/media/Marshall1960.d2bdc216.wav",
+    "static/media/MesaBoogie57TS.wav": "/guitaramp/static/media/MesaBoogie57TS.a96aabe5.wav",
+    "static/media/Plexi Lead Channel.wav": "/guitaramp/static/media/Plexi Lead Channel.0ecb4c85.wav",
+    "static/media/Knob.css": "/guitaramp/static/media/knob.50f38887.png",
+    "static/media/parking-garage.wav": "/guitaramp/static/media/parking-garage.2c0a9528.wav",
+    "static/media/pcm90cleanplate.wav": "/guitaramp/static/media/pcm90cleanplate.ce654815.wav",
+    "static/media/scala-milan-opera.wav": "/guitaramp/static/media/scala-milan-opera.5e8146d9.wav",
+    "static/media/vox_tweed_1x12.wav": "/guitaramp/static/media/vox_tweed_1x12.7fa61919.wav"
+  }
+}
